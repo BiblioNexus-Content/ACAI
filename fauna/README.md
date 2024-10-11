@@ -32,7 +32,7 @@ Each of these sources are available as CC-BY-4.0 or CC-BY-SA-4.0 licensed data.
 In particular, the UBS Dictionaries include information associating semantic entries with entries from the UBS
 Thematic Lexica (for Fauna, Flora, and Realia). These references allowed the aggregation of the bulk of the available
 data. Several of our English  descriptions are directly inspired by these definitions. We owe much to the UBS team 
-(and Reinier DuBlois in particular) for their work and for their licensing of the material under a CC-BY-SA-4.0 license.
+(and Reinier DuBlois in particular) for their work and for their licensing of the UBS Dictionaries under a CC-BY-SA-4.0 license.
 
 In addition to these sources, BiblioNexus have done a significant amount of curation and supplementation 
 in order to account for and model the data according to the needs of the ACAI project. 

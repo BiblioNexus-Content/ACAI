@@ -69,7 +69,7 @@ We next processed data from [viz.bible](https://viz.bible) and [STEPBible's](htt
 to prepare person data to be integrated into one cohesive set.
 
 Upon processing these datasets, we realized that STEPBible's TIPNR data did the best job of the lot of grouping together 
-different methods of referring to the same location. So it made sense to begin with the TIPNR data as a basic representation, 
+different methods of referring to the same deity (or non-person entity). So it made sense to begin with the TIPNR data as a basic representation, 
 incorporate the semantic, instance, and referent information aggregated from the UBS Dictionaries and from the Macula 
 datasets, and then fold in data from viz.bible. 
 
